@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-anthropic
+chromadb
+sentence-transformers
+pymupdf
+openpyxl
+streamlit
+python-dotenv
+langchain-text-splitters
